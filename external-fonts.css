@@ -1,0 +1,10 @@
+h1 {
+  font-family: 'Roboto Condensed', sans-serif;
+  letter-spacing: 1px;
+}
+
+p {
+  font-family: 'Exo', sans-serif;
+  letter-spacing: 0.3px;
+  line-height: 25px;
+}
